@@ -1,0 +1,226 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Android SDK Integration",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Android SDK Requirements",
+            "href": "/tutorial-basics/android_requirements",
+            "docId": "tutorial-basics/android_requirements"
+          },
+          {
+            "type": "link",
+            "label": "Adding the Android SDK",
+            "href": "/tutorial-basics/Adding SDK",
+            "docId": "tutorial-basics/Adding SDK"
+          },
+          {
+            "type": "link",
+            "label": "Adding Permissions",
+            "href": "/tutorial-basics/permissions",
+            "docId": "tutorial-basics/permissions"
+          },
+          {
+            "type": "link",
+            "label": "Starting the verification flow",
+            "href": "/tutorial-basics/verification-flow",
+            "docId": "tutorial-basics/verification-flow"
+          },
+          {
+            "type": "link",
+            "label": "Customizing the SDK",
+            "href": "/tutorial-basics/customizing-sdk",
+            "docId": "tutorial-basics/customizing-sdk"
+          },
+          {
+            "type": "link",
+            "label": "More customization options",
+            "href": "/tutorial-basics/more-options",
+            "docId": "tutorial-basics/more-options"
+          },
+          {
+            "type": "link",
+            "label": "Getting the verification status",
+            "href": "/tutorial-basics/verification-status",
+            "docId": "tutorial-basics/verification-status"
+          }
+        ],
+        "href": "/category/android-sdk-integration"
+      },
+      {
+        "type": "category",
+        "label": "iOS SDK Integration",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "iOS SDK Requirements",
+            "href": "/tutorial-extras/requirements",
+            "docId": "tutorial-extras/requirements"
+          },
+          {
+            "type": "link",
+            "label": "Adding the iOS SDK",
+            "href": "/tutorial-extras/adding-sdk",
+            "docId": "tutorial-extras/adding-sdk"
+          },
+          {
+            "type": "link",
+            "label": "Adding Permissions",
+            "href": "/tutorial-extras/permissions",
+            "docId": "tutorial-extras/permissions"
+          },
+          {
+            "type": "link",
+            "label": "Biometric Authentication",
+            "href": "/tutorial-extras/biometric-auth",
+            "docId": "tutorial-extras/biometric-auth"
+          },
+          {
+            "type": "link",
+            "label": "Verifying User",
+            "href": "/tutorial-extras/verification",
+            "docId": "tutorial-extras/verification"
+          },
+          {
+            "type": "link",
+            "label": "Biometric Authentication Handlings",
+            "href": "/tutorial-extras/biometric-handlings",
+            "docId": "tutorial-extras/biometric-handlings"
+          },
+          {
+            "type": "link",
+            "label": "Create Session API",
+            "href": "/tutorial-extras/creating-session",
+            "docId": "tutorial-extras/creating-session"
+          },
+          {
+            "type": "link",
+            "label": "Receiving Decisions",
+            "href": "/tutorial-extras/receiving-decisions",
+            "docId": "tutorial-extras/receiving-decisions"
+          }
+        ],
+        "href": "/category/ios-sdk-integration"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Welcome to the EarthID’s documentation. This documentation will help you get started with EarthID. If you have any questions, please reach out to your assigned expert via email or slack channel.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/Adding SDK": {
+      "id": "tutorial-basics/Adding SDK",
+      "title": "Adding the Android SDK",
+      "description": "Open the root settings.gradle file and add a new maven destination to the repositories in the allprojects section.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/android_requirements": {
+      "id": "tutorial-basics/android_requirements",
+      "title": "Android SDK Requirements",
+      "description": "- EarthID Android SDK needs your minSdkVersion to be of 21 or above.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/customizing-sdk": {
+      "id": "tutorial-basics/customizing-sdk",
+      "title": "Customizing the SDK",
+      "description": "Setting a theme (Optional)",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/more-options": {
+      "id": "tutorial-basics/more-options",
+      "title": "More customization options",
+      "description": "Customizing primary button background color",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/permissions": {
+      "id": "tutorial-basics/permissions",
+      "title": "Adding Permissions",
+      "description": "The SDK will request all the permissions it needs, please make sure that the CAMERA, RECORD_AUDIO permissions are not explicitly removed using tools:node=\"remove\" in your app`s manifest file. Ignore this if you are not explicitly removing any permissions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/verification-flow": {
+      "id": "tutorial-basics/verification-flow",
+      "title": "Starting the verification flow",
+      "description": "The verification flow must be launched from the vendor Activity class with a unique session. A session is valid for 7 days and expires automatically after that.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/verification-status": {
+      "id": "tutorial-basics/verification-status",
+      "title": "Getting the verification status",
+      "description": "EarthID SDK sends callbacks to your mobile application. To capture the result override the onActivityResult method in your activity that started the verification flow:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/adding-sdk": {
+      "id": "tutorial-extras/adding-sdk",
+      "title": "Adding the iOS SDK",
+      "description": "Using Swift Package Manager",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/biometric-auth": {
+      "id": "tutorial-extras/biometric-auth",
+      "title": "Biometric Authentication",
+      "description": "Pre-requisites",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/biometric-handlings": {
+      "id": "tutorial-extras/biometric-handlings",
+      "title": "Biometric Authentication Handlings",
+      "description": "Biometric Authentication handling decisions",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/creating-session": {
+      "id": "tutorial-extras/creating-session",
+      "title": "Create Session API",
+      "description": "Sample JSON object",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/permissions": {
+      "id": "tutorial-extras/permissions",
+      "title": "Adding Permissions",
+      "description": "Add usage descriptions to application Info.plist",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/receiving-decisions": {
+      "id": "tutorial-extras/receiving-decisions",
+      "title": "Receiving Decisions",
+      "description": "This hook will be sent back asynchronously, and it contains more data, including the verified identity information.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/requirements": {
+      "id": "tutorial-extras/requirements",
+      "title": "iOS SDK Requirements",
+      "description": "Integration EarthID iOS SDK requires at least iOS version 11.0",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/verification": {
+      "id": "tutorial-extras/verification",
+      "title": "Verifying User",
+      "description": "Using your configured IDV integration, verify the user’s identity.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

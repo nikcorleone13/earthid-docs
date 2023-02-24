@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/biometric-auth",
+  "id": "tutorial-extras/biometric-auth",
+  "title": "Biometric Authentication",
+  "description": "Pre-requisites",
+  "source": "@site/docs/tutorial-extras/4-biometric-auth.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/biometric-auth",
+  "permalink": "/tutorial-extras/biometric-auth",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/4-biometric-auth.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding Permissions",
+    "permalink": "/tutorial-extras/permissions"
+  },
+  "next": {
+    "title": "Verifying User",
+    "permalink": "/tutorial-extras/verification"
+  }
+}

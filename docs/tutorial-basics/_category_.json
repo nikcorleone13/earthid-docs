@@ -1,0 +1,8 @@
+{
+  "label": "Android SDK Integration",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This section explicitly guides the user for the Android integration"
+  }
+}

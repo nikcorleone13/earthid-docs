@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/creating-session",
+  "id": "tutorial-extras/creating-session",
+  "title": "Create Session API",
+  "description": "Sample JSON object",
+  "source": "@site/docs/tutorial-extras/7-creating-session.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/creating-session",
+  "permalink": "/tutorial-extras/creating-session",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/7-creating-session.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Biometric Authentication Handlings",
+    "permalink": "/tutorial-extras/biometric-handlings"
+  },
+  "next": {
+    "title": "Receiving Decisions",
+    "permalink": "/tutorial-extras/receiving-decisions"
+  }
+}

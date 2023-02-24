@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/ssfsf",
+  "id": "tutorial-basics/ssfsf",
+  "title": "ssfsf",
+  "description": "Adding the Android SDK",
+  "source": "@site/docs/tutorial-basics/ssfsf.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/ssfsf",
+  "permalink": "/tutorial-basics/ssfsf",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/ssfsf.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android SDK Requirements",
+    "permalink": "/tutorial-basics/android_requirements"
+  },
+  "next": {
+    "title": "Permissions",
+    "permalink": "/tutorial-basics/permissions"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Android SDK Integration",
+  "description": "This section particularly guides the user for the iOS integration of the EarthID SDK",
+  "slug": "/category/android-sdk-integration-1",
+  "permalink": "/category/android-sdk-integration-1",
+  "navigation": {
+    "previous": {
+      "title": "Getting the verification status",
+      "permalink": "/tutorial-basics/verification"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

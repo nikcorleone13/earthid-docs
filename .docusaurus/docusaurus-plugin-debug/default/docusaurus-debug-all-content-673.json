@@ -1,0 +1,571 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/nikcorleone13/Desktop/docs/demo_docs/sidebars.js",
+          "contentPath": "/Users/nikcorleone13/Desktop/docs/demo_docs/docs",
+          "contentPathLocalized": "/Users/nikcorleone13/Desktop/docs/demo_docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Welcome to the EarthID’s documentation. This documentation will help you get started with EarthID. If you have any questions, please reach out to your assigned expert via email or slack channel.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Android SDK Integration",
+                "permalink": "/category/android-sdk-integration"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Adding SDK",
+              "id": "tutorial-basics/Adding SDK",
+              "title": "Adding the Android SDK",
+              "description": "Open the root settings.gradle file and add a new maven destination to the repositories in the allprojects section.",
+              "source": "@site/docs/tutorial-basics/2_Adding SDK.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Adding SDK",
+              "permalink": "/tutorial-basics/Adding SDK",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/2_Adding SDK.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Android SDK Requirements",
+                "permalink": "/tutorial-basics/android_requirements"
+              },
+              "next": {
+                "title": "Adding Permissions",
+                "permalink": "/tutorial-basics/permissions"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/android_requirements",
+              "id": "tutorial-basics/android_requirements",
+              "title": "Android SDK Requirements",
+              "description": "- EarthID Android SDK needs your minSdkVersion to be of 21 or above.",
+              "source": "@site/docs/tutorial-basics/1_android_requirements.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/android_requirements",
+              "permalink": "/tutorial-basics/android_requirements",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/1_android_requirements.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Android SDK Integration",
+                "permalink": "/category/android-sdk-integration"
+              },
+              "next": {
+                "title": "Adding the Android SDK",
+                "permalink": "/tutorial-basics/Adding SDK"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/customizing-sdk",
+              "id": "tutorial-basics/customizing-sdk",
+              "title": "Customizing the SDK",
+              "description": "Setting a theme (Optional)",
+              "source": "@site/docs/tutorial-basics/5_customizing-sdk.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/customizing-sdk",
+              "permalink": "/tutorial-basics/customizing-sdk",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/5_customizing-sdk.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Starting the verification flow",
+                "permalink": "/tutorial-basics/verification-flow"
+              },
+              "next": {
+                "title": "More customization options",
+                "permalink": "/tutorial-basics/more-options"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/more-options",
+              "id": "tutorial-basics/more-options",
+              "title": "More customization options",
+              "description": "Customizing primary button background color",
+              "source": "@site/docs/tutorial-basics/6_more-options.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/more-options",
+              "permalink": "/tutorial-basics/more-options",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/6_more-options.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Customizing the SDK",
+                "permalink": "/tutorial-basics/customizing-sdk"
+              },
+              "next": {
+                "title": "Getting the verification status",
+                "permalink": "/tutorial-basics/verification-status"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/permissions",
+              "id": "tutorial-basics/permissions",
+              "title": "Adding Permissions",
+              "description": "The SDK will request all the permissions it needs, please make sure that the CAMERA, RECORD_AUDIO permissions are not explicitly removed using tools:node=\"remove\" in your app`s manifest file. Ignore this if you are not explicitly removing any permissions.",
+              "source": "@site/docs/tutorial-basics/3_permissions.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/permissions",
+              "permalink": "/tutorial-basics/permissions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/3_permissions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Adding the Android SDK",
+                "permalink": "/tutorial-basics/Adding SDK"
+              },
+              "next": {
+                "title": "Starting the verification flow",
+                "permalink": "/tutorial-basics/verification-flow"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/verification-flow",
+              "id": "tutorial-basics/verification-flow",
+              "title": "Starting the verification flow",
+              "description": "The verification flow must be launched from the vendor Activity class with a unique session. A session is valid for 7 days and expires automatically after that.",
+              "source": "@site/docs/tutorial-basics/4_verification-flow.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/verification-flow",
+              "permalink": "/tutorial-basics/verification-flow",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/4_verification-flow.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Adding Permissions",
+                "permalink": "/tutorial-basics/permissions"
+              },
+              "next": {
+                "title": "Customizing the SDK",
+                "permalink": "/tutorial-basics/customizing-sdk"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/verification-status",
+              "id": "tutorial-basics/verification-status",
+              "title": "Getting the verification status",
+              "description": "EarthID SDK sends callbacks to your mobile application. To capture the result override the onActivityResult method in your activity that started the verification flow:",
+              "source": "@site/docs/tutorial-basics/7_verification-status.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/verification-status",
+              "permalink": "/tutorial-basics/verification-status",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/7_verification-status.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "More customization options",
+                "permalink": "/tutorial-basics/more-options"
+              },
+              "next": {
+                "title": "iOS SDK Integration",
+                "permalink": "/category/ios-sdk-integration"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/adding-sdk",
+              "id": "tutorial-extras/adding-sdk",
+              "title": "Adding the iOS SDK",
+              "description": "Using Swift Package Manager",
+              "source": "@site/docs/tutorial-extras/2-adding-sdk.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/adding-sdk",
+              "permalink": "/tutorial-extras/adding-sdk",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/2-adding-sdk.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "iOS SDK Requirements",
+                "permalink": "/tutorial-extras/requirements"
+              },
+              "next": {
+                "title": "Adding Permissions",
+                "permalink": "/tutorial-extras/permissions"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/biometric-auth",
+              "id": "tutorial-extras/biometric-auth",
+              "title": "Biometric Authentication",
+              "description": "Pre-requisites",
+              "source": "@site/docs/tutorial-extras/4-biometric-auth.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/biometric-auth",
+              "permalink": "/tutorial-extras/biometric-auth",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/4-biometric-auth.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Adding Permissions",
+                "permalink": "/tutorial-extras/permissions"
+              },
+              "next": {
+                "title": "Verifying User",
+                "permalink": "/tutorial-extras/verification"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/biometric-handlings",
+              "id": "tutorial-extras/biometric-handlings",
+              "title": "Biometric Authentication Handlings",
+              "description": "Biometric Authentication handling decisions",
+              "source": "@site/docs/tutorial-extras/6-biometric-handlings.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/biometric-handlings",
+              "permalink": "/tutorial-extras/biometric-handlings",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/6-biometric-handlings.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Verifying User",
+                "permalink": "/tutorial-extras/verification"
+              },
+              "next": {
+                "title": "Create Session API",
+                "permalink": "/tutorial-extras/creating-session"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/creating-session",
+              "id": "tutorial-extras/creating-session",
+              "title": "Create Session API",
+              "description": "Sample JSON object",
+              "source": "@site/docs/tutorial-extras/7-creating-session.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/creating-session",
+              "permalink": "/tutorial-extras/creating-session",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/7-creating-session.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Biometric Authentication Handlings",
+                "permalink": "/tutorial-extras/biometric-handlings"
+              },
+              "next": {
+                "title": "Receiving Decisions",
+                "permalink": "/tutorial-extras/receiving-decisions"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/permissions",
+              "id": "tutorial-extras/permissions",
+              "title": "Adding Permissions",
+              "description": "Add usage descriptions to application Info.plist",
+              "source": "@site/docs/tutorial-extras/3-permissions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/permissions",
+              "permalink": "/tutorial-extras/permissions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/3-permissions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Adding the iOS SDK",
+                "permalink": "/tutorial-extras/adding-sdk"
+              },
+              "next": {
+                "title": "Biometric Authentication",
+                "permalink": "/tutorial-extras/biometric-auth"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/receiving-decisions",
+              "id": "tutorial-extras/receiving-decisions",
+              "title": "Receiving Decisions",
+              "description": "This hook will be sent back asynchronously, and it contains more data, including the verified identity information.",
+              "source": "@site/docs/tutorial-extras/8-receiving-decisions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/receiving-decisions",
+              "permalink": "/tutorial-extras/receiving-decisions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/8-receiving-decisions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create Session API",
+                "permalink": "/tutorial-extras/creating-session"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/requirements",
+              "id": "tutorial-extras/requirements",
+              "title": "iOS SDK Requirements",
+              "description": "Integration EarthID iOS SDK requires at least iOS version 11.0",
+              "source": "@site/docs/tutorial-extras/1-requirements.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/requirements",
+              "permalink": "/tutorial-extras/requirements",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/1-requirements.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "iOS SDK Integration",
+                "permalink": "/category/ios-sdk-integration"
+              },
+              "next": {
+                "title": "Adding the iOS SDK",
+                "permalink": "/tutorial-extras/adding-sdk"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/verification",
+              "id": "tutorial-extras/verification",
+              "title": "Verifying User",
+              "description": "Using your configured IDV integration, verify the user’s identity.",
+              "source": "@site/docs/tutorial-extras/5-verification.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/verification",
+              "permalink": "/tutorial-extras/verification",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/5-verification.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Biometric Authentication",
+                "permalink": "/tutorial-extras/biometric-auth"
+              },
+              "next": {
+                "title": "Biometric Authentication Handlings",
+                "permalink": "/tutorial-extras/biometric-handlings"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Android SDK Integration",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/android_requirements"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Adding SDK"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/permissions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/verification-flow"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/customizing-sdk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/more-options"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/verification-status"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "This section explicitly guides the user for the Android integration",
+                  "slug": "/category/android-sdk-integration",
+                  "permalink": "/category/android-sdk-integration"
+                }
+              },
+              {
+                "type": "category",
+                "label": "iOS SDK Integration",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/requirements"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/adding-sdk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/permissions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/biometric-auth"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/verification"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/biometric-handlings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/creating-session"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/receiving-decisions"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "This section particularly guides the user for the iOS integration of the EarthID SDK",
+                  "slug": "/category/ios-sdk-integration",
+                  "permalink": "/category/ios-sdk-integration"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

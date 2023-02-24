@@ -1,0 +1,27 @@
+{
+  "unversionedId": "android/test",
+  "id": "android/test",
+  "title": "test",
+  "description": "",
+  "source": "@site/docs/android/test.md",
+  "sourceDirName": "android",
+  "slug": "/android/test",
+  "permalink": "/android/test",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/android/test.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customizing the SDK",
+    "permalink": "/android/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/category/tutorial---extras"
+  }
+}

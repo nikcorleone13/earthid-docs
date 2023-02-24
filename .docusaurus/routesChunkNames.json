@@ -1,0 +1,138 @@
+{
+  "/__docusaurus/debug-d79": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-07-e-a64"
+    }
+  },
+  "/__docusaurus/debug/config-8ab": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-07-e-a64"
+    }
+  },
+  "/__docusaurus/debug/content-61b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-07-e-a64"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-2b6": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-07-e-a64"
+    }
+  },
+  "/__docusaurus/debug/metadata-7f2": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-07-e-a64"
+    }
+  },
+  "/__docusaurus/debug/registry-7fa": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-07-e-a64"
+    }
+  },
+  "/__docusaurus/debug/routes-a8c": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-07-e-a64"
+    }
+  },
+  "/markdown-page-4a8": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-33-f-438"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/-ab7": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-33-f-438"
+    },
+    "config": "config---5-e-9-4f3"
+  },
+  "/-84f": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---a-75-62f"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/category/android-sdk-integration-c75": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-android-sdk-integration-06-c-d56"
+  },
+  "/category/ios-sdk-integration-470": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-ios-sdk-integration-3-d-5-970"
+  },
+  "/intro-283": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---intro-0-e-3-7b8"
+  },
+  "/tutorial-basics/Adding SDK-401": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-adding-sd-ka-1-d-172"
+  },
+  "/tutorial-basics/android_requirements-5e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-android-requirements-595-148"
+  },
+  "/tutorial-basics/customizing-sdk-115": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-customizing-sdk-6-b-3-8a2"
+  },
+  "/tutorial-basics/more-options-f13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-more-optionsddd-5d8"
+  },
+  "/tutorial-basics/permissions-1c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-permissions-79-a-94e"
+  },
+  "/tutorial-basics/verification-flow-08a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-verification-flow-957-f3b"
+  },
+  "/tutorial-basics/verification-status-39c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-verification-statusb-81-86f"
+  },
+  "/tutorial-extras/adding-sdk-baa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-adding-sdke-34-b52"
+  },
+  "/tutorial-extras/biometric-auth-263": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-biometric-auth-12-b-f64"
+  },
+  "/tutorial-extras/biometric-handlings-ea6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-biometric-handlings-4-fe-70e"
+  },
+  "/tutorial-extras/creating-session-35d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-creating-session-2-be-4cb"
+  },
+  "/tutorial-extras/permissions-150": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-permissions-9-b-6-c7c"
+  },
+  "/tutorial-extras/receiving-decisions-9fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-receiving-decisions-23-d-7e6"
+  },
+  "/tutorial-extras/requirements-e54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-requirementsfe-8-4d1"
+  },
+  "/tutorial-extras/verification-ecf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-verification-6-b-3-cc7"
+  }
+}

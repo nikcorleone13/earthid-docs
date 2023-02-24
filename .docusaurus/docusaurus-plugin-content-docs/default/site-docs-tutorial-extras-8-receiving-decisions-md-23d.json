@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-extras/receiving-decisions",
+  "id": "tutorial-extras/receiving-decisions",
+  "title": "Receiving Decisions",
+  "description": "This hook will be sent back asynchronously, and it contains more data, including the verified identity information.",
+  "source": "@site/docs/tutorial-extras/8-receiving-decisions.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/receiving-decisions",
+  "permalink": "/tutorial-extras/receiving-decisions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/8-receiving-decisions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Session API",
+    "permalink": "/tutorial-extras/creating-session"
+  }
+}

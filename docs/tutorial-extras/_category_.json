@@ -1,0 +1,8 @@
+{
+  "label": "iOS SDK Integration",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This section particularly guides the user for the iOS integration of the EarthID SDK"
+  }
+}

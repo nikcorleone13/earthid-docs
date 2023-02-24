@@ -1,0 +1,118 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Adding SDK",
+              "path": "/tutorial-basics/Adding SDK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/android_requirements",
+              "path": "/tutorial-basics/android_requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/customizing-sdk",
+              "path": "/tutorial-basics/customizing-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/more-options",
+              "path": "/tutorial-basics/more-options",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/permissions",
+              "path": "/tutorial-basics/permissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/verification-flow",
+              "path": "/tutorial-basics/verification-flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/verification-status",
+              "path": "/tutorial-basics/verification-status",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/adding-sdk",
+              "path": "/tutorial-extras/adding-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/biometric-auth",
+              "path": "/tutorial-extras/biometric-auth",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/biometric-handlings",
+              "path": "/tutorial-extras/biometric-handlings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/creating-session",
+              "path": "/tutorial-extras/creating-session",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/permissions",
+              "path": "/tutorial-extras/permissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/receiving-decisions",
+              "path": "/tutorial-extras/receiving-decisions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/requirements",
+              "path": "/tutorial-extras/requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/verification",
+              "path": "/tutorial-extras/verification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/android-sdk-integration",
+              "path": "/category/android-sdk-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ios-sdk-integration",
+              "path": "/category/ios-sdk-integration",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

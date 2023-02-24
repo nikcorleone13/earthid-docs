@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/verification",
+  "id": "tutorial-extras/verification",
+  "title": "Verifying User",
+  "description": "Using your configured IDV integration, verify the user’s identity.",
+  "source": "@site/docs/tutorial-extras/5-verification.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/verification",
+  "permalink": "/tutorial-extras/verification",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/5-verification.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Biometric Authentication",
+    "permalink": "/tutorial-extras/biometric-auth"
+  },
+  "next": {
+    "title": "Biometric Authentication Handlings",
+    "permalink": "/tutorial-extras/biometric-handlings"
+  }
+}

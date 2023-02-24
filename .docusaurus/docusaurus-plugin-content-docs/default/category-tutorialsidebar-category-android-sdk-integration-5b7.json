@@ -1,0 +1,16 @@
+{
+  "title": "Android SDK Integration",
+  "description": "This section explicitly guides the user for the Android integration",
+  "slug": "/category/android-sdk-integration",
+  "permalink": "/category/android-sdk-integration",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/intro"
+    },
+    "next": {
+      "title": "Android SDK Requirements",
+      "permalink": "/tutorial-basics/android_requirements"
+    }
+  }
+}

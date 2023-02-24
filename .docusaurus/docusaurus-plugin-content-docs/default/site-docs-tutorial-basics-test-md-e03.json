@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/test",
+  "id": "tutorial-basics/test",
+  "title": "test",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/test.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/test",
+  "permalink": "/tutorial-basics/test",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/test.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "More customization options",
+    "permalink": "/tutorial-basics/markdown-features"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/category/tutorial---extras"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/verification-flow",
+  "id": "tutorial-basics/verification-flow",
+  "title": "Starting the verification flow",
+  "description": "The verification flow must be launched from the vendor Activity class with a unique session. A session is valid for 7 days and expires automatically after that.",
+  "source": "@site/docs/tutorial-basics/4_verification-flow.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/verification-flow",
+  "permalink": "/tutorial-basics/verification-flow",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/4_verification-flow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding Permissions",
+    "permalink": "/tutorial-basics/permissions"
+  },
+  "next": {
+    "title": "Customizing the SDK",
+    "permalink": "/tutorial-basics/customizing-sdk"
+  }
+}

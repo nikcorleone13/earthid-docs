@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/adding-sdk",
+  "id": "tutorial-extras/adding-sdk",
+  "title": "Adding the iOS SDK",
+  "description": "Using Swift Package Manager",
+  "source": "@site/docs/tutorial-extras/2-adding-sdk.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/adding-sdk",
+  "permalink": "/tutorial-extras/adding-sdk",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/2-adding-sdk.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iOS SDK Requirements",
+    "permalink": "/tutorial-extras/requirements"
+  },
+  "next": {
+    "title": "Adding Permissions",
+    "permalink": "/tutorial-extras/permissions"
+  }
+}

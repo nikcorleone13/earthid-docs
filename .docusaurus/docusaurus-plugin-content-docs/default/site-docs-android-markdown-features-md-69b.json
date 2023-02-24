@@ -1,0 +1,27 @@
+{
+  "unversionedId": "android/markdown-features",
+  "id": "android/markdown-features",
+  "title": "More customization options",
+  "description": "Customizing primary button background color",
+  "source": "@site/docs/android/markdown-features.md",
+  "sourceDirName": "android",
+  "slug": "/android/markdown-features",
+  "permalink": "/android/markdown-features",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/android/markdown-features.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customizing the SDK",
+    "permalink": "/android/congratulations"
+  },
+  "next": {
+    "title": "Getting the verification status",
+    "permalink": "/android/verification"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Adding-sdk",
+  "id": "tutorial-basics/Adding-sdk",
+  "title": "Adding the Android SDK",
+  "description": "Open the root settings.gradle file and add a new maven destination to the repositories in the allprojects section.",
+  "source": "@site/docs/tutorial-basics/Adding-sdk.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Adding-sdk",
+  "permalink": "/tutorial-basics/Adding-sdk",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/Adding-sdk.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting the verification status",
+    "permalink": "/tutorial-basics/verification-status"
+  },
+  "next": {
+    "title": "iOS SDK Integration",
+    "permalink": "/category/ios-sdk-integration"
+  }
+}

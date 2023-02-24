@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/tesst",
+  "id": "tutorial-basics/tesst",
+  "title": "Adding SDK",
+  "description": "Adding the Android SDK",
+  "source": "@site/docs/tutorial-basics/tesst.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/tesst",
+  "permalink": "/tutorial-basics/tesst",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/tesst.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting the verification status",
+    "permalink": "/tutorial-basics/verification-status"
+  },
+  "next": {
+    "title": "iOS SDK Integration",
+    "permalink": "/category/ios-sdk-integration"
+  }
+}

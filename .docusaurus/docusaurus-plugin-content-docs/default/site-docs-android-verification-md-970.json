@@ -1,0 +1,27 @@
+{
+  "unversionedId": "android/verification",
+  "id": "android/verification",
+  "title": "Getting the verification status",
+  "description": "EarthID SDK sends callbacks to your mobile application. To capture the result override the onActivityResult method in your activity that started the verification flow:",
+  "source": "@site/docs/android/verification.md",
+  "sourceDirName": "android",
+  "slug": "/android/verification",
+  "permalink": "/android/verification",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/android/verification.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "More customization options",
+    "permalink": "/android/markdown-features"
+  },
+  "next": {
+    "title": "iOS SDK Integration",
+    "permalink": "/category/ios-sdk-integration"
+  }
+}

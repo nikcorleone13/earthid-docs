@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/customizing-sdk",
+  "id": "tutorial-basics/customizing-sdk",
+  "title": "Customizing the SDK",
+  "description": "Setting a theme (Optional)",
+  "source": "@site/docs/tutorial-basics/5_customizing-sdk.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/customizing-sdk",
+  "permalink": "/tutorial-basics/customizing-sdk",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/5_customizing-sdk.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Starting the verification flow",
+    "permalink": "/tutorial-basics/verification-flow"
+  },
+  "next": {
+    "title": "More customization options",
+    "permalink": "/tutorial-basics/more-options"
+  }
+}
