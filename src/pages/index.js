@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons} >
           <Link
             className="button button-1 button--secondary button--lg"
-            to="/docs/intro">
+            to="https://www.myearth.id/">
             Explore EarthID
           </Link>
 
