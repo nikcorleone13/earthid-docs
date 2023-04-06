@@ -1,138 +1,95 @@
 {
-  "/__docusaurus/debug-d79": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/markdown-page-df0": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-07-e-a64"
-    }
-  },
-  "/__docusaurus/debug/config-8ab": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-07-e-a64"
-    }
-  },
-  "/__docusaurus/debug/content-61b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-07-e-a64"
+      "plugin": "a38e63dc"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "content": "393be207"
   },
-  "/__docusaurus/debug/globalData-2b6": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/-946": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-07-e-a64"
-    }
-  },
-  "/__docusaurus/debug/metadata-7f2": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-07-e-a64"
-    }
-  },
-  "/__docusaurus/debug/registry-7fa": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-07-e-a64"
-    }
-  },
-  "/__docusaurus/debug/routes-a8c": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-07-e-a64"
-    }
-  },
-  "/markdown-page-4a8": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---markdown-page-33-f-438"
+      "plugin": "a38e63dc"
     },
-    "content": "content---markdown-page-393-028"
+    "config": "5e9f5e1a"
   },
-  "/-ab7": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/-01c": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---markdown-page-33-f-438"
+      "plugin": "e5621f17"
     },
-    "config": "config---5-e-9-4f3"
-  },
-  "/-84f": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---a-75-62f"
-    },
-    "versionMetadata": "versionMetadata---935-fcf"
+    "versionMetadata": "935f2afb"
   },
   "/category/android-sdk-integration-c75": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-android-sdk-integration-06-c-d56"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "06c3a61d"
   },
   "/category/ios-sdk-integration-470": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-ios-sdk-integration-3-d-5-970"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3d534427"
   },
   "/intro-283": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intro-0-e-3-7b8"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/tutorial-basics/Adding SDK-401": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-adding-sd-ka-1-d-172"
+    "__comp": "17896441",
+    "content": "a1d0d281"
   },
   "/tutorial-basics/android_requirements-5e5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-android-requirements-595-148"
+    "__comp": "17896441",
+    "content": "59510b31"
   },
   "/tutorial-basics/customizing-sdk-115": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-customizing-sdk-6-b-3-8a2"
+    "__comp": "17896441",
+    "content": "6b308e0b"
   },
   "/tutorial-basics/more-options-f13": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-more-optionsddd-5d8"
+    "__comp": "17896441",
+    "content": "ddd57b9f"
   },
   "/tutorial-basics/permissions-1c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-permissions-79-a-94e"
+    "__comp": "17896441",
+    "content": "79a55885"
   },
   "/tutorial-basics/verification-flow-08a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-verification-flow-957-f3b"
+    "__comp": "17896441",
+    "content": "957411a0"
   },
   "/tutorial-basics/verification-status-39c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-verification-statusb-81-86f"
+    "__comp": "17896441",
+    "content": "b81349ff"
   },
   "/tutorial-extras/adding-sdk-baa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-adding-sdke-34-b52"
+    "__comp": "17896441",
+    "content": "e34f0026"
   },
   "/tutorial-extras/biometric-auth-263": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-biometric-auth-12-b-f64"
+    "__comp": "17896441",
+    "content": "12b8ed99"
   },
   "/tutorial-extras/biometric-handlings-ea6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-biometric-handlings-4-fe-70e"
+    "__comp": "17896441",
+    "content": "4fe18605"
   },
   "/tutorial-extras/creating-session-35d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-creating-session-2-be-4cb"
+    "__comp": "17896441",
+    "content": "2be637d2"
   },
   "/tutorial-extras/permissions-150": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-permissions-9-b-6-c7c"
+    "__comp": "17896441",
+    "content": "9b611972"
   },
   "/tutorial-extras/receiving-decisions-9fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-receiving-decisions-23-d-7e6"
+    "__comp": "17896441",
+    "content": "23d1ec16"
   },
   "/tutorial-extras/requirements-e54": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-requirementsfe-8-4d1"
+    "__comp": "17896441",
+    "content": "fe87f6bf"
   },
   "/tutorial-extras/verification-ecf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-verification-6-b-3-cc7"
+    "__comp": "17896441",
+    "content": "6b3e8076"
   }
 }

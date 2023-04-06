@@ -28,12 +28,12 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/nikcorleone13/Desktop/docs/demo_docs/sidebars.js",
+          "sidebarPath": "/Users/vaibhav/earthid/Nikhils repo/earthid-docs/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/nikcorleone13/Desktop/docs/demo_docs/src/css/custom.css"
+          "customCss": "/Users/vaibhav/earthid/Nikhils repo/earthid-docs/src/css/custom.css"
         }
       }
     ]

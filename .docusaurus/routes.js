@@ -3,53 +3,18 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'd79'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '8ab'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '61b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '2b6'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '7f2'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '7fa'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'a8c'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '4a8'),
+    component: ComponentCreator('/markdown-page', 'df0'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'ab7'),
+    component: ComponentCreator('/', '946'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '84f'),
+    component: ComponentCreator('/', '01c'),
     routes: [
       {
         path: '/category/android-sdk-integration',
